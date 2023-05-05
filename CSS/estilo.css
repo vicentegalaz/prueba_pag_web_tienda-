@@ -1,0 +1,13 @@
+.titulo{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+h1 .titulo{
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.container{
+    color: aliceblue;
+}
